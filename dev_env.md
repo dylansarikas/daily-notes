@@ -10,3 +10,7 @@
 - https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/setting-your-commit-email-address
 - https://docs.github.com/en/get-started/getting-started-with-git/set-up-git
 - https://stackoverflow.com/questions/45671327/correct-way-to-start-stop-postgres-database-pg-ctl-or-service-postgres
+
+## Postgres
+- https://stackoverflow.com/questions/59479802/unable-to-create-a-rails-app-due-to-incompatible-library-version-load-errorx
+
