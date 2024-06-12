@@ -13,4 +13,3 @@
 
 ## Postgres
 - https://stackoverflow.com/questions/59479802/unable-to-create-a-rails-app-due-to-incompatible-library-version-load-errorx
-
