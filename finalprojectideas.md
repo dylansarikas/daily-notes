@@ -5,6 +5,7 @@
 - Tailgating
 - UC AP?
 - Combined Public Transport Map
+- Party Ideas
 - APIs, Rapid APIs
 - MVP
 
