@@ -9,6 +9,11 @@
 - APIs, Rapid APIs
 - MVP
 
+## Presentation
+- Elden Ring
+- Cooking Video
+- Sports Conspiracies
+
 ## Notes
 - Everything should be made as simple as possible but not simpler than that
 - Who is your user?
